@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noe1209
-- 👀 I’m interested in ... Learn programing
+- 👀 I’m interested in ... Learn
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
